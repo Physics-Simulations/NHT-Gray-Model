@@ -1,0 +1,17 @@
+Lx: 5e-07
+Ly: 1e-08
+Lz: 1e-08
+
+Lx_subcell: 1e-08
+Ly_subcell: 1e-08
+Lz_subcell: 1e-08
+
+T0: 150.0
+Tf: 100.0
+Ti: 125.0
+
+t_MAX: 1e-09
+dt: 4e-12
+
+W: 5000.0
+Every_flux: 5
